@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "financial-dashboard-v1"
-  }
+    "default": "financial-dashboard-v1",
+    "staging": "financial-dashboard-v1-staging"
+  },
+  "targets": {}
 }
