@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "./logo.png";
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
         fontFamily: "poppins",
       }}
     >
+      <img src={logo} alt="Financial Dashboard Logo" />
       <h1
         style={{
           margin: 0,
